@@ -31,7 +31,7 @@ app.register(plugins, function (err) {
                path: __dirname
            }
        }
-   });
+   };
 });
 
 app.route({
